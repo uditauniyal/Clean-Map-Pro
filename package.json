@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.1",
+    "dotenv": "^16.4.4",
+    "mailjet-sendemail": "^1.1.4",
+    "nodemailer": "^6.9.9"
+  }
+}
